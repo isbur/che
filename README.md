@@ -1,3 +1,3 @@
 # che
 
-che.openshift.io - try it
+https://che.openshift.io - try it
